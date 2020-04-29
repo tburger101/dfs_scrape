@@ -8,6 +8,8 @@ pro_users=['youdacao', 'ChipotleAddict','Awesemo', 'papagates' 'moklovin', 'king
 'hoop2410', '3rd_and_schlong', 'BDholla89', 'aejones', 'squirrelpatroldk', 'BrandonAdams']
 
 core_file='C:/Users/travi/Box Sync/NFL/DFS Research/'
+#Change the data to get different data from the fantasy labs dashboard.  Note it appears all main slate contests appear on Wednesday.
+
 date='9_25_2019'
 url_core='https://www.fantasylabs.com/api/contestlist/1/4/'
 username_url_core='https://www.fantasylabs.com/api/contests/usernames/1/'
